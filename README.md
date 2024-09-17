@@ -1,16 +1,28 @@
-## Hi there 👋
+## Olá, Meu Nome é Murilo 👋
 
-<!--
-**MuriloObr/MuriloObr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Atualmente focado em tecnologias do Javascript/Typescript</p>
+<p>Criando e aprendendo mais sobre desenvolvimento de softwares. Tentando cada vez mais escrever código com mais manutenibilidade.</p>
 
-Here are some ideas to get you started:
+### ⚙️ Tecnologias que eu utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,tailwind,vite,nextjs,fastapi,flask,postgres,redis,linux,neovim,git,github,docker)](https://skillicons.dev)
+
+<tr>
+  <td>
+    <img
+      style="height:12rem"
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloObr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+      alt="Github Stats"
+    />
+  </td>
+  <td>
+    <img
+      style="height:12rem"
+      align="left"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloObr&theme=tokyonight&hide_border=false"
+      alt="Github Stats"
+    />
+  </td>
+</tr>
+
