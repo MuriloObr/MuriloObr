@@ -10,7 +10,7 @@
 <tr>
   <td>
     <img
-      style="height:12rem"
+      style="height:10rem"
       align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloObr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="Github Stats"
@@ -18,7 +18,7 @@
   </td>
   <td>
     <img
-      style="height:12rem"
+      style="height:10rem"
       align="left"
       src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloObr&theme=tokyonight&hide_border=false"
       alt="Github Stats"
