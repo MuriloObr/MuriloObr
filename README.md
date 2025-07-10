@@ -20,7 +20,7 @@
     <img
       style="height:11rem"
       align="left"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloObr&theme=tokyonight&hide_border=false"
+      src="https://nirzak-streak-stats.vercel.app/?user=MuriloObr&theme=tokyonight&hide_border=false"
       alt="Github Stats"
     />
   </td>
